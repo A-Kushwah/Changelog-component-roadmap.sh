@@ -1,0 +1,91 @@
+* {
+    border-style: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.main-changelog-card {
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 2rem;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.changelog-title {
+    font-size: 2rem;
+    font-weight: 300;
+    margin-bottom: 1rem;
+}
+
+.changelog-subtitle {
+    font-size: 0.9rem;
+    font-weight: 200;
+    color: #999;
+}
+
+/* Timeline Content */
+
+.content {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.vertical-line {
+    border: 1.7px solid black;
+    width: 0;
+    height: 400px;
+    display: flex;
+    position: relative;
+    left: 10px;
+    z-index: 0;
+}
+
+.big-dots-wrapper {
+    display: flex;
+}
+
+.big-dots {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    right: 1.5px;
+    top: 14px;
+    z-index: 1;
+}
+
+.dot {
+    margin: 0.94rem auto;
+}
+
+.date {
+    margin: 2.1rem 10px;
+    color: #999;
+    font-size: 0.9rem;
+}
+
+.discription {
+    margin: 2.1rem 10px;
+    text-align: start;
+    font-size: 0.9rem;
+    
+}
+
+button {
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 10px 25px;
+    border-radius: 0.5rem;
+}
