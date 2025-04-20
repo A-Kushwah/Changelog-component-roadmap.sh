@@ -19,3 +19,11 @@ To ensure transparency and provide a centralized resource for understanding the 
 ## Usage
 
 Refer to this document to stay updated on the latest changes and enhancements in the project.
+
+## What i made..
+
+![alt text](image.png)
+
+## What was needed..
+
+![alt text](changelog-component-1m86j.png)
