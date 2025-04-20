@@ -2,6 +2,10 @@
 
 This project is part of the Roadmap.sh initiatives, aimed at providing structured and comprehensive guides for developers. The repository serves as a changelog and documentation hub for tracking updates, features, and improvements.
 
+## Roadmap.sh Project link
+
+https://roadmap.sh/projects/changelog-component
+
 ## Key Features
 
 - Detailed changelog for project updates.
